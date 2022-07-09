@@ -1,17 +1,14 @@
-<div class="image-card">
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Danielsilverio81/2e36cc907da68ad8b4113f606c71f0a0/raw/bee00d692cb7c83f4f54ff82cc38ffbd55aa43b4/githubContCard.svg"/>
-</div>
-
 <div class="description">
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Daniel Silverio</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Danielsilverio81&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Currently I work in another profession, looking for my first job in the IT area as a programmer.
+- 🙏 Currently I work in another profession, looking for my first job in the IT area as a programmer.
 
 - 💬 I study and I have some projects in **JavaScript, HTML, CSS, Sass e Scss**
 
-- ⚡ curiosities: This other profession in which I work, added very positively to my soft skills example: Knowing how to work under pressure, looking for good quality and teamwork
-</div>
+- ⚡ Curiosity: Studying at the Faculty of Systems Analysis and Development.
+
+- 😎 My soft skills: Hardworking, friendly, I know how to work under pressure, Resilient, Organized.
 
 <br></br>
 
@@ -34,3 +31,9 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=Danielsilverio81&show_icons=true&theme=highcontrast" alt="Danielsilverio81 stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielsilverio81&layout=compact&theme=vision-friendly-dark" alt="Danielsilverio81 most languages"/>
 </p>
+
+<br></br>
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Danielsilverio81)](https://github.com/Danielsilverio81)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielsilverio81/)](https://www.linkedin.com/in/danielsilverio81/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Danielsdev81)](https://twitter.com/Danielsdev81)
