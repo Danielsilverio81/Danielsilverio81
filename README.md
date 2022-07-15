@@ -2,7 +2,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Daniel Silverio</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Danielsilverio81&color=yellow" alt="Profile views" /> </p>
 
-- 🙏 Currently I work in another profession, looking for my first job in the IT area as a programmer.
+- 🙏 Currently I work in another profession, looking for my first job in the programming area.
 
 - 💬 I study and I have some projects in **JavaScript, HTML, CSS, Sass e Scss**
 
@@ -28,7 +28,6 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Danielsilverio81&show_icons=true&theme=highcontrast" alt="Danielsilverio81 stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielsilverio81&layout=compact&theme=vision-friendly-dark" alt="Danielsilverio81 most languages"/>
 </p>
 
