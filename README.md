@@ -32,7 +32,14 @@
 </p>
 
 <br></br>
+<p align="left" style="background:yellow">
+<a href="https://twitter.com/DanielS81m" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-@DanielS81m-05122A?style=flat&logo=twitter" alt="twitter"/>  
+</a>
+<a href="https://www.linkedin.com/in/danielsilverio81/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Danielsilverio81-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/danielsilverio81/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-@Danielsilverio81-05122A?style=flat&logo=instagram" alt="instagram"/>
+</p>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Danielsilverio81)](https://github.com/Danielsilverio81)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielsilverio81/)](https://www.linkedin.com/in/danielsilverio81/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Danielsdev81)](https://twitter.com/Danielsdev81)
