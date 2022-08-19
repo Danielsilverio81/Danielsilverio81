@@ -6,9 +6,11 @@
 
 - 💬 I study and I have some projects in **JavaScript, HTML, CSS, Sass e Scss**
 
-- ⚡ Curiosity: Studying at the Faculty of Systems Analysis and Development.
+- ⚡ Curiosity: Studying at the Faculty of Systems Analysis and Development, I take additional courses on Udemy and DevMedia.
 
-- 😎 My soft skills: Hardworking, friendly, I know how to work under pressure, Resilient, Organized.
+- 😎 My soft skills: Persevering, Committed, Friendly and Hardworking.
+
+- ❤️‍🔥	My likes: I like to help people solve problems, I like to take care of their health doing a gym, hiking and in music I'm eclectic but I prefer Rock
 
 <br></br>
 
