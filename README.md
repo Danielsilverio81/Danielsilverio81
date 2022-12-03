@@ -35,7 +35,7 @@
 
 <br></br>
 <p align="left" style="background:yellow">
-<a href="https://twitter.com/DanielS81m" target="blank">
+<a href="https://twitter.com/DanielS81mdev" target="blank">
   <img align="center" src="https://img.shields.io/badge/-@DanielS81m-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://www.linkedin.com/in/danielsilverio81/" target="blank">
