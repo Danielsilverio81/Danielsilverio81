@@ -2,7 +2,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Daniel Silverio</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Danielsilverio81&color=yellow" alt="Profile views" /> </p>
 
-- 💬  I study and I have some projects in **JavaScript, HTML, CSS, Sass e Scss**
+- 💬  I study and I have some projects in **JavaScript, HTML, CSS, Sass e Bootstrap**
 
 - ⚡  Curiosity: Studying at the Faculty of Systems Analysis and Development, I take additional courses on Udemy and platform One Bit Code Pro.
 
