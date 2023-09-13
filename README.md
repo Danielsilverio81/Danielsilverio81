@@ -2,13 +2,13 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Daniel Silverio</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Danielsilverio81&color=yellow" alt="Profile views" /> </p>
 
-- 💬  I study and I have some projects in **JavaScript, HTML, CSS, Sass e Bootstrap**
+- 💬  I have been studying and developing for about 1 year
 
-- ⚡  Curiosity: Studying at the Faculty of Systems Analysis and Development, I take additional courses on Udemy and platform One Bit Code Pro.
+- ⚡  Curiosity: I started programming out of fun and curiosity, today it has become a dream career...
 
 - 😎  My soft skills: friendly , persevering and communicative.
 
-- ❤️‍🔥	 My likes: I like to help people solve problems, I like to take care of their health doing a gym, hiking and in music I'm eclectic but I prefer Rock
+- ❤️‍🔥	 My likes: I'm eclectic but good rock makes me more excited, in games I like war games with interesting stories and I love anime especially One piece
 
 <br></br>
 
