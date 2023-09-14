@@ -28,11 +28,7 @@
 
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielsilverio81&layout=compact&theme=vision-friendly-dark" alt="Danielsilverio81 most languages"/>
-</p>
 
 <br></br>
 <p align="left" style="background:yellow">
