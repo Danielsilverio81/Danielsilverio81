@@ -37,7 +37,7 @@
 
 ## 🌐 Connect with Me:
 
-<p align="left">
+<p align="left" margin = "5px">
 <a href="https://www.linkedin.com/in/danielsilverio81/" target="blank">
   <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
