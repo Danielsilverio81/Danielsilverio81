@@ -7,7 +7,6 @@
 
 - 💻 **Experience**: I've been studying and developing software for about 1 year.
 - 🎯 **Passion**: What started as fun and curiosity has now become a dream career.
-- 💡 **Core Skills**: JavaScript, React, TailwindCSS, Sass, HTML, CSS, Git, GitHub, Markdown, Visual Studio Code.
 - 🎨 **Interests**: I'm an eclectic person who enjoys good rock music, immersive war games, and watching anime, especially One Piece.
 
 ## 🌟 Soft Skills:
@@ -19,18 +18,22 @@
 - **Continuous Learning**: I'm committed to expanding my skill set and staying current with industry trends.
 
 ## 🛠 &nbsp;Tech Stack:
-<br></br>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+
+## 🌐 Additional Expertise:
+
+- ![Agile](https://img.shields.io/badge/-Agile-05122A?style=flat&logo=agile)&nbsp;
+- **Scrum**: I am experienced with Scrum methodologies for project management.
+- **MVC**: Familiar with the Model-View-Controller (MVC) pattern for creating structured, maintainable web applications.
 
 ## 🌐 Connect with Me:
 
