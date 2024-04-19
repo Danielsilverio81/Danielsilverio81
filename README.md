@@ -37,12 +37,15 @@
 
 ## 🌐 Connect with Me:
 
-<p align="left" margin = "5px">
-<a href="https://www.linkedin.com/in/danielsilverio81/" target="blank">
+<p align="left">
+<div>
+  <a href="https://www.linkedin.com/in/danielsilverio81/" target="blank">
   <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://www.instagram.com/danielsilverio81/" target="blank">
+<div>
+  <a href="https://www.instagram.com/danielsilverio81/" target="blank">
  <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
+</div>
 </p>
 
